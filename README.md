@@ -2,7 +2,9 @@
 
 This guide provides details on how to use various MATLAB functions replacing the parameter tables from the textbook: **Fundamentals of Gas Dynamics Third Edition** By Robert D. Zucker and Oscar Biblarz. Interpolation is done automatically and answers are achieved as if you were using the tables and doing linear interpolation manually.
 
+&nbsp;
 ___
+&nbsp;
 
 ## **Flow Tables**
 
