@@ -100,4 +100,4 @@ getM1(theta, delta) % returns M1
 ```
 
 ### **Figure AD1:**
-![Figure AD1](figure_ad.png)
+![Figure AD1](figure_ad_one.png)
